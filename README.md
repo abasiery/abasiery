@@ -45,5 +45,15 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20El%20Abasiery-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="180" height="50" viewBox="0 0 180 50" style="border-radius: 25px; background-color: #0077b5;">
+      <rect width="100%" height="100%" rx="25" fill="#0077b5" />
+      <text x="50%" y="50%" font-size="20" text-anchor="middle" fill="white" dy=".3em" font-family="Arial">LinkedIn</text>
+      <circle cx="170" cy="25" r="20" fill="white">
+        <animate attributeName="r" from="20" to="25" dur="0.3s" begin="mouseover" repeatCount="1" />
+        <animate attributeName="r" from="25" to="20" dur="0.3s" begin="mouseout" repeatCount="1" />
+      </circle>
+    </svg>
+  </a>
+</p>
