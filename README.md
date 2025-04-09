@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman El Abasiery</h1>
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/108418906?s=400&u=36418de3f0e8579b4c9f87f823fae3aef36fbdc2&v=4" width="150" height="150" style="border-radius: 50%" alt="Abdelrahman El Abasiery Avatar" />
+</p>
+
+<!-- Animated Heading -->
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Abdelrahman El Abasiery</h1>
 <h3 align="center">A passionate Computer Engineering graduate who loves building software solutions</h3>
 
 ---
@@ -8,7 +14,7 @@
 - 💻 I enjoy working with a variety of technologies like **.NET**, **Node.js**, and more
 - 🧠 I love solving problems and creating real-world applications with **C#**, **Python**, and **JavaScript**
 - 🌱 Currently exploring **ASP.NET Core**, **SignalR**, **Node.js**, and **cloud technologies**
-- 📫 Reach me at: **[abdoabasiery123@gmail.com]**
+- 📫 Reach me at: **abdoabasiery123@gmail.com**
 
 ---
 
@@ -37,6 +43,10 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20El%20Abasiery-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/))
+<p align="center">
+  <a href="www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
