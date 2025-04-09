@@ -45,8 +45,5 @@
 
 ### 🔗 Connect with Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20El%20Abasiery-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/)
+
