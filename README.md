@@ -8,7 +8,7 @@
 - 💻 I enjoy working with a variety of technologies like **.NET**, **Node.js**, and more
 - 🧠 I love solving problems and creating real-world applications with **C#**, **Python**, and **JavaScript**
 - 🌱 Currently exploring **ASP.NET Core**, **SignalR**, **Node.js**, and **cloud technologies**
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **[abdoabasiery123@gmail.com]**
 
 ---
 
