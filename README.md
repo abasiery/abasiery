@@ -28,15 +28,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-abasiery&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abasiery&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-abasiery&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiery&layout=compact&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-abasiery&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abasiery&theme=tokyonight" />
 </p>
+
 
 ---
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20El%20Abasiery-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20El%20Abasiery-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/)
