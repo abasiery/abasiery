@@ -47,8 +47,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-el-abasiery-85a8a5259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20El%20Abasiery-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" height="40" alt="LinkedIn Logo" />
   </a>
+   <br/>
+  <sub><b>Click the badge to visit my LinkedIn profile</b></sub>
 </p>
+
 
 
